@@ -1,8 +1,11 @@
 Fordham Francis Index 2025
 
-Graduate Program in International Political Economy and Development (IPED)
-Fordham University
 
+Authors
+Frederic Bomba,  Adriana Curto, Luke Olsen, Philip Chan, Viviane Hirwa, David Osgood, Lisa Patern, Bismi Samia, Saujan Khapung
+Coordinators Henry Schwalbenberg, Donna Odra, Giaccomo Santangelo
+
+Fordham University, Graduate Program in International Political Economy and Development (IPED)
 
 Project Overview
 
@@ -69,14 +72,6 @@ Stage 3, Composite Index. The Material Wellbeing Index and the Spiritual Freedom
 Fordham Francis Index equals the square root of (Material Wellbeing Index multiplied by Spiritual Freedom Index)
 
 Higher FFI scores indicate lower deprivation. The report also benchmarks the FFI, the Material Wellbeing Index, and the Spiritual Freedom Index against the log of GDP per capita and the Human Development Index using ordinary least squares regression, and reports a correlation matrix among the seven underlying indicators.
-
-
-Authors
-
-Fordham University, Graduate Program in International Political Economy and Development (IPED)
-
-For a full list of student and faculty contributors, please refer to the acknowledgments section of the report PDF.
-
 
 Suggested Citation
 
